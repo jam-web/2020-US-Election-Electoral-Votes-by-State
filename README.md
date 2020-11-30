@@ -1,3 +1,3 @@
 # election
-A work in progress to track the 2020 presidential campaign.
-I used Javascript/HTML/CSS to make the tables.
+An interactive electoral map for the 2020 presidential campaign.
+Javascript/HTML/CSS
